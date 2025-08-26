@@ -1,0 +1,1 @@
+{ "name": "calculator-mcp", "version":"0.1.0", "type":"module", "bin": {"calculator-mcp":"index.js"}, "dependencies":{} }

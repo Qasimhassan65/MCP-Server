@@ -1,0 +1,27 @@
+{
+  "name": "video-summarizer-mcp",
+  "version": "1.0.0",
+  "description": "Video Summarizer MCP Server for Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "video",
+    "summarizer",
+    "transcription"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

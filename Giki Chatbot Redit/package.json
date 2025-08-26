@@ -1,0 +1,30 @@
+{
+  "name": "giki-chatbot-mcp",
+  "version": "1.0.0",
+  "description": "GIKI Chatbot MCP Server for Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.1.1",
+    "mammoth": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "chatbot",
+    "giki",
+    "rag"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

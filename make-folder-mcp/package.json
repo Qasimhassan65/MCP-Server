@@ -1,0 +1,1 @@
+{ "name": "make-folder-mcp", "version":"0.1.0", "type":"module", "bin": {"make-folder-mcp":"index.js"}, "dependencies":{} }

@@ -1,0 +1,1 @@
+{ "name": "webfetch-mcp", "version":"0.1.0", "type":"module", "bin": {"webfetch-mcp":"index.js"}, "dependencies": {"node-fetch":"^3.3.2"} }
